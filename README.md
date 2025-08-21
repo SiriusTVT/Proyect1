@@ -33,6 +33,14 @@ This approach also allowed us to experiment with different Audacity tools:
 
 By applying these edits, the trailer shifts from a terrifying experience into a parody-like comedy sketch.  
 
+## Repository Content  
+- `README.md` (this file)  
+- `Edited Trailer.mp4` (final edited video with new audio)  
+- `Original Trailer.mp4` (original video without modifications)  
+- `Proyect1.aup3` (Audacity project file)  
+- `src/` (folder with all external audios and sound effects used)  
+- `.gitattributes` (configuration to handle large files in Git LFS)  
+
 
 ## References / Audio Sources  
 - EnchufeTV – *Saw Parody: “Juguemos un juego”* [YouTube](https://www.youtube.com/watch?v=VP6m0zAKQAo&t=36s)  
